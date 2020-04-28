@@ -1,3 +1,7 @@
+O projeto se trata de um site de filmes que recebe informações de filmes e sobre eles de uma API.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
